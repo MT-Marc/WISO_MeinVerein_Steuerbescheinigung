@@ -23,3 +23,13 @@ In Zahlungsübersicht:
 5. Belegdatum filtern nach entsprechendem Jahr (von / bis)
 6. Als Excel exportieren (oben rechts drei Punkte)
 7. Datei speichern
+
+
+# Usage script.py
+
+python3 script.py DATEI VORNAME NACHNAME STRASSE HAUSNR PLZ ORT
+
+Beispiel:
+```
+python3 script.py daten.xlsx Max Mustermann Straße 1 12345 Musterort
+```
