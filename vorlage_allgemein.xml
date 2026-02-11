@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-data xmlns="http://www.lucom.com/ffw/xml-data-1.0.xsd">
+	<form>catalog://Steuerformulare/gemein/034132</form>
+	<instance>
+		<datarow>
+			<element id="ID_USER">.anonymous</element>
+			<element id="aussteller">AUSZUSTELLENDER VEREIN</element>
+			<!-- Hier kommt dein Vereinsname hin | Musterverein e. V. -->
+			<element id="name">Vorname Nachname | Strasse Hausnummer | PLZ Ort</element>
+			<!-- Dieses Feld wird durch das Skript befüllt -->
+			<element id="wert2">GESAMTSUMMEINWORTEN</element>
+			<!-- Dieses Feld wird durch das Skript befüllt -->
+			<element id="datum">01.01.2025 00:00:00</element>
+			<!-- Das zu betrachtende Steuerjahr BEGINN -->
+			<element id="k3">false</element>
+			<element id="k4">true</element>
+			<element id="k5">false</element>
+			<element id="stnr2">STEUERNUMMER</element>
+			<!-- Die Steuernummer des Vereins -->
+			<element id="finamt2">ORT</element>
+			<!-- Der ausstellende Finanzamt der Nummer -->
+			<element id="datum3">BESCHEID_VON 00:00:00</element>
+			<!-- Die Steuernummer des Vereins (Datum in "BESCHEID_VON" eintragen und Nullen stehen lassen-->
+			<element id="ort_datum">ORT, 01.03.2026</
+			<!-- Unterschriftszeile mit Ort und Datum befüllen -->
+			<element id="zwecke2b2">ZWECK</element>
+			<!-- Der ausgestellte (gemeinützige) Zweck -->
+			<element id="gesamtsumme">282.00</element>
+			<!-- Dieses Feld wird durch das Skript befüllt -->
+			<element id="datum4">01.12.2025 00:00:00</element>
+			<!-- Das zu betrachtende Steuerjahr ENDE -->
+		</datarow>
+		<!-- Ab hier wird alles durch das Skript angepasst -->
+		<dataset id="betraege">
+			<datarow>
+				<element id="ID_LINE">1</element>
+				<element id="dat1">25.11.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">15.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">2</element>
+				<element id="dat1">25.11.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">15.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">3</element>
+				<element id="dat1">02.09.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">15.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">4</element>
+				<element id="dat1">02.09.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">15.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">5</element>
+				<element id="dat1">13.07.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">30.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">6</element>
+				<element id="dat1">06.06.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">30.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">7</element>
+				<element id="dat1">21.05.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">30.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">8</element>
+				<element id="dat1">19.03.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">30.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">9</element>
+				<element id="dat1">19.03.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">30.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">10</element>
+				<element id="dat1">27.02.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">30.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">11</element>
+				<element id="dat1">24.01.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">30.00</element>
+			</datarow>
+			<datarow>
+				<element id="ID_LINE">12</element>
+				<element id="dat1">24.01.2024 00:00:00</element>
+				<element id="art">Geldzuwendung</element>
+				<element id="ja_nein">nein</element>
+				<element id="betrag1">12.00</element>
+			</datarow>
+		</dataset>
+	</instance>
+</xml-data>
+
