@@ -9,17 +9,17 @@ Name: Sammelbestätigung über Geldzuwendungen / steuerbegünstigte Einrichtung
 Basic Workflow:
 
 In WISO: 
-[1] Mitglieder > Alle Mitglieder
-[2] Spalten anpassen (oben rechts)
+1. Mitglieder > Alle Mitglieder
+2. Spalten anpassen (oben rechts)
 - Vorname
 - Nachname
 - Straße
 - PLZ
 - Ort
 
-[3] Mitglied suchen
-[4] Zahlungsübersicht anzeigen (rechts auf drei Punkte)
+3. Mitglied suchen
+4. Zahlungsübersicht anzeigen (rechts auf drei Punkte)
 In Zahlungsübersicht:
-[5] Belegdatum filtern nach entsprechendem Jahr (von / bis)
-[6] Als Excel exportieren (oben rechts drei Punkte)
-[7] Datei speichern
+5. Belegdatum filtern nach entsprechendem Jahr (von / bis)
+6. Als Excel exportieren (oben rechts drei Punkte)
+7. Datei speichern
